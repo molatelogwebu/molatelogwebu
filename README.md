@@ -37,13 +37,15 @@ Welcome to my GitHub profile!
 
 ## 🎓 Certifications
 
-- Getting Started with Power BI — LinkedIn Learning
-- Microsoft Excel to Power BI — LinkedIn Learning
+- LinkedIn Learning: Getting Started with Power BI - May 2026
+- LinkedIn Learning: Microsoft Excel to Power BI - May 2026
+- LinkedIn Learning: SQL Essential Training - LinkedIn Learning - May 2026
+- Cisco Networking Academy: Introduction to Data Analytics Essentials - June 2026
+- Forage; Deloitte Australia: Data Analytics Job Simulation - June 2026
 
 ## 📁 Featured Projects
 
-### Retail Performance Analysis Using Superstore Dataset Dashboard
-Analyzed sales data and created interactive Power BI dashboards.
+### Retail Performance Analysis Using Superstore Dataset Dashboard sales data and created interactive Power BI dashboards.
 - https://github.com/molatelogwebu/Retail-Sales-Performance-Analysis-Using-Superstore-Dataset
 
 
