@@ -24,6 +24,7 @@ Welcome to my GitHub profile!
 
 ### Programming & Databases
 - SQL
+- Python
 
 ### Data Analysis
 - Excel
