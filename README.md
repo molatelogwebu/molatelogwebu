@@ -1,5 +1,4 @@
 ## Hi, I'm Molatelo Gwebu🩷
-https://www.linkedin.com/in/molatelo-gwebu-3110a23ba/
 
 # 🎯Professional Objective:
 ## 💫 About Me:
