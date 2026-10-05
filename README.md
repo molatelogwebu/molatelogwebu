@@ -42,7 +42,7 @@ Welcome to my GitHub profile!
 - LinkedIn Learning: SQL Essential Training - LinkedIn Learning - May 2026
 - Cisco Networking Academy: Introduction to Data Analytics Essentials - June 2026
 - Forage; Deloitte Australia: Data Analytics Job Simulation - June 2026
-- 
+- Cisco Networking Academy: Data Science Essentials with Python - September 2026
 
 ## 📁 Featured Projects
 
