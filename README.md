@@ -15,8 +15,7 @@ Welcome to my GitHub profile!
 ## About Me 👩🏽‍🏫
 
 - 📈 Interested in Data Analytics and Data Science
-- 🐍 Learning Python for data analysis
-- 🗄️ Working with SQL databases
+- 🐍 Learning Python for data science
 - 📊 Building dashboards in Power BI
 - 🚀 Looking for opportunities to grow in the data field
   
@@ -43,6 +42,7 @@ Welcome to my GitHub profile!
 - LinkedIn Learning: SQL Essential Training - LinkedIn Learning - May 2026
 - Cisco Networking Academy: Introduction to Data Analytics Essentials - June 2026
 - Forage; Deloitte Australia: Data Analytics Job Simulation - June 2026
+- 
 
 ## 📁 Featured Projects
 
@@ -63,9 +63,9 @@ Cleaned and transformed messy datasets using Excel. Visualized key business metr
   
 ## Goals 🎯
 - To build impactful data products and contribute to data-driven decision-making
-- Learn Python for Data Analytics
+- Learn Python for Data Science
 - Strength SQL & Power BI skills
-- Build a strong data analytics portfolio
+- Build a strong portfolio
 - Contribute to open-source projects
 - Earn industry recognized certifications
 
