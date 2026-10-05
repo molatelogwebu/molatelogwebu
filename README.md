@@ -2,7 +2,7 @@
 https://www.linkedin.com/in/molatelo-gwebu-3110a23ba/
 
 ## 🎯Professional Objective
-# 💫 About Me:
+## 💫 About Me:
 🎯 Aspiring Data Analyst & Data Scientist<br><br>📊 Passionate about data-driven decision making<br><br>🌱 Currently learning Python, SQL, Power BI, and Machine Learning<br><br>I am passionate about transforming data into actionable insights and using analytics to solve real world problems. Currently building my skills in data analysis, data visualization, machine learning, Python and statistical modeling.<br><br>Welcome to my GitHub profile!
 
 
